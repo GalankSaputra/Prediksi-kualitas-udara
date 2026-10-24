@@ -1,0 +1,6 @@
+.venv/
+.venv-1/
+.venv313/
+__pycache__/
+app_lama.py
+model_kualitas_udara/
